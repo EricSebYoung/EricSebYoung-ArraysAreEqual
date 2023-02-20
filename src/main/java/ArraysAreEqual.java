@@ -24,7 +24,7 @@ public class ArraysAreEqual {
                 return false;
             }
         }
-        
-        return true;
+
+        return true; 
     }
 }
